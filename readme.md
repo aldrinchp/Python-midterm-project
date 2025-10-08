@@ -13,7 +13,7 @@ Identificar relaciones significativas entre variables categóricas usando prueba
 
 ## 🔧 Metodología Implementada
 1. Preparación de Datos
-Carga y verificación del dataset desde Google Drive
+Carga y verificación del dataset
 
 Selección de variables relevantes para análisis de compatibilidad
 
@@ -92,5 +92,6 @@ Tamaño de muestra (n=750)
 Nivel de significancia (α=0.05)
 
 Tamaño del efecto observado
+
 
 Este enfoque asegura que las correlaciones identificadas sean tanto estadísticamente significativas como prácticamente relevantes para la toma de decisiones sobre compatibilidad de roommates.
