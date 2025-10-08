@@ -102,5 +102,5 @@ Este enfoque asegura que las correlaciones identificadas sean tanto estadística
 
 > 1. Aldrin Chávez
 > 2. Kevin Sánchez
-
+> 3. Daniela Analuisa
 ---
