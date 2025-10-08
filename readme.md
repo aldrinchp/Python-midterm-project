@@ -95,3 +95,12 @@ Tamaño del efecto observado
 
 
 Este enfoque asegura que las correlaciones identificadas sean tanto estadísticamente significativas como prácticamente relevantes para la toma de decisiones sobre compatibilidad de roommates.
+
+---
+
+> **Autores**
+
+> 1. Aldrin Chávez
+> 2. Kevin Sánchez
+
+---
