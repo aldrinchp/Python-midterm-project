@@ -103,4 +103,4 @@ Este enfoque asegura que las correlaciones identificadas sean tanto estadística
 > 1. Aldrin Chávez
 > 2. Kevin Sánchez
 > 3. Daniela Analuisa
----> 4. Ray Moya
+> 4. Ray Moya
